@@ -17,6 +17,7 @@
     "@nuxt/ui": "^4.6.1",
     "@nuxtjs/svg-sprite": "^1.0.2",
     "better-sqlite3": "^12.9.0",
-    "nuxt": "^4.4.2"
+    "nuxt": "^4.4.2",
+    "tailwindcss": "^4.2.2"
   }
 }
