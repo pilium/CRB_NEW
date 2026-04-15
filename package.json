@@ -1,0 +1,22 @@
+{
+  "name": "crb_new",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@nuxt/a11y": "^1.0.0-alpha.1",
+    "@nuxt/content": "^3.13.0",
+    "@nuxt/eslint": "^1.15.2",
+    "@nuxt/image": "^2.0.0",
+    "@nuxt/scripts": "^0.13.4",
+    "@nuxt/ui": "^4.6.1",
+    "@nuxtjs/svg-sprite": "^1.0.2",
+    "better-sqlite3": "^12.9.0",
+    "nuxt": "^4.4.2"
+  }
+}
